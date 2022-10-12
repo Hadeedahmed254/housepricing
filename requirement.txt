@@ -1,4 +1,4 @@
-Python
+
 Flask
 sklearn
 pandas
